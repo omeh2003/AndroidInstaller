@@ -1,0 +1,15 @@
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\AndroidInstaller.exe.config
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\AndroidInstaller.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\AndroidInstaller.pdb
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\ru\AndroidInstaller.resources.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\Mono.Posix.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\SharpAdbClient.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\SharpAdbClient.pdb
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\bin\Debug\SharpAdbClient.xml
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.AndroidInstaller.resources
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.Properties.Resources.resources
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.AndroidInstaller.ru.resources
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.csproj.GenerateResource.Cache
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\ru\AndroidInstaller.resources.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\AndroidInstaller\AndroidInstaller\obj\Debug\AndroidInstaller.pdb
